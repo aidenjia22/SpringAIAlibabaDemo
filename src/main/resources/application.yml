@@ -4,5 +4,5 @@ server:
 spring:
   ai:
     dashscope:
-        api-key: sk-f48466cf0ae84a3ead60ffc6a823e1fb # 设置你的 DashScope API Key
+        api-key: {your_key}# 设置你的 DashScope API Key
 
